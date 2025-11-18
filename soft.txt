@@ -31,3 +31,7 @@ Spring Boot
 Comes with Spring Security, one of the strongest security frameworks
 
 Ideal for enterprise-level authentication/authorization
+
+
+conclusion 
+That some different between MERN vs Spring Boot comparison
