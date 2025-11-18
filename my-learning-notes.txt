@@ -1,0 +1,8 @@
+git add 
+Adds all modified and new files to the staging area
+
+git commit
+Creates a new commit with the changes in the staging area and opens the default text editor for adding a commit message
+
+git push
+Pushes local commits to the remote repository
