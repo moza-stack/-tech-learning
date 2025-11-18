@@ -11,3 +11,8 @@ Many people confuse web apps and websites since both are accessed through a web 
 
  Mobile Applications section
 Today, people spend more time on their phones than any other device. As designers, you now have to think more carefully about user interface design for apps than ever. As it plays a key role in improving usability and user retention.
+
+
+At the same time, you need applications on your desktop or laptop to perform various tasks, such as developing code, analyzing application performance, and more.
+
+Depending on varying needs and challenges, enterprises may need customized desktop applications to handle various business tasks. For this, they typically approach professional application developers in their team or contractors to create custom desktop applications.
