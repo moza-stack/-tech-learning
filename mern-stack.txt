@@ -1,0 +1,13 @@
+Frontend (Client Side)
+
+What it is:
+The part of a website or application that users see and interact with
+Backend (Server Side)
+
+What it is:
+The behind-the-scenes logic that processes requests and returns responses.
+
+Database (DB)
+
+What it is:
+A system used to store, organize, and retrieve data
