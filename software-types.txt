@@ -1,0 +1,10 @@
+types software
+
+& System Software
+
+
+& Application Software
+
+
+ Web Application (Web App) is a software program that runs on a remote server and is accessed through a web browser over the internet. Unlike traditional apps that require installation on your device, web apps work directly from your browser whether it's Chrome, Safari, or Firefox.
+Many people confuse web apps and websites since both are accessed through a web browser and need an internet connection. However, they serve different purposes.
