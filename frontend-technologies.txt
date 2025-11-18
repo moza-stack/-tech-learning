@@ -1,1 +1,4 @@
  HTML, CSS, and JavaScript are completely free to use. They are open standards maintained by organizations like the World Wide Web Consortium (W3C) and ECMA International, ensuring that anyone can access, learn, and implement them without any licensing fees or restrictions.
+
+ReactJS: ReactJS is an open-source JavaScript library created by Facebook which is used to deal with the view layer for both Web and Mobile applications.
+Vue.js: Vue.js is a JavaScript front-end framework.
