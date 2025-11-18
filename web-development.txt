@@ -1,2 +1,11 @@
 Git
 Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
+
+A front-end developer/engineer uses Web Platform Technologies —namely HTML, CSS, and JavaScript— to develop a front-end (i.e., a user interface with which the user interacts) for websites, web applications, and native applications.
+Most practitioners are introduced to the occupation after creating their first HTML web page. The most straightforward and simplest work output from a front-end developer/engineer is an HTML document that runs in a web browser, producing a web page.
+
+
+Backend development refers to the server-side of software development – the portion of an application that runs in the background and powers the features users interact with on the frontend. One way to think of it is the behind-the-scenes magic that makes websites and apps work.
+
+
+Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. The design of databases spans formal techniques and practical considerations, including data modeling, efficient data representation and storage, query languages, security and privacy of sensitive data, and distributed computing issues, including supporting concurrent access and fault tolerance.
