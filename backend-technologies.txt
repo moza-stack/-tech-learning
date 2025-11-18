@@ -1,4 +1,3 @@
 When choosing between PHP, Python, and Node.js for backend development, the decision should align with your project’s architecture, scalability needs, and long-term maintainability rather than just syntax preference.
 
-java is  a high-level, open-source, object-oriented.
-Ruby is a high-level, purely object-oriented, and general-purpose programming language
+java is  a high-level, open-source, object-oriented.Ruby is a high-level, purely object-oriented, and general-purpose programming language.
