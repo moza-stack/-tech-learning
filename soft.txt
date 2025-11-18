@@ -1,0 +1,33 @@
+Performance & Scalability
+MERN
+
+Great for real-time apps (chat, notifications)
+
+Non-blocking I/O in Node.js
+
+Good scalability for lightweight apps
+
+Not ideal for heavy, complex business logic
+
+Spring Boot
+
+High performance and stable under heavy load
+
+Excellent for large enterprise applications
+
+Strong multi-threading and high concurrency handling
+
+Better for complex systems (banking, ERP, telecom)
+
+5. Security
+MERN
+
+Security depends on manual implementation (JWT, middleware)
+
+Node.js packages vary in maturity
+
+Spring Boot
+
+Comes with Spring Security, one of the strongest security frameworks
+
+Ideal for enterprise-level authentication/authorization
