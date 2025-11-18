@@ -1,0 +1,3 @@
+When choosing a database management system (DBMS) for your application, selecting the right one can be challenging. Popular choices include MySQL, PostgreSQL, and MongoDB.
+
+Each of these databases has its strengths and weaknesses. By comparing their features and how they align with our project's needs, we can choose the best DBMS for our application. In this article, we will learn about Comparing MySQL, PostgreSQL, and MongoDB in various situations.
