@@ -1,0 +1,22 @@
+MERN Stack
+
+A JavaScript-based tech stack used for building modern web applications.
+Components:
+
+MongoDB – NoSQL database
+
+Express.js – Backend web framework
+
+React.js – Frontend library
+
+
+
+Node.js – Runtime environment
+NET / ASP.NET Core
+
+A Microsoft framework used for building web, desktop, mobile, cloud, and enterprise applications.
+
+Uses languages: C#, F#, VB.NET
+Works with: SQL Server, MySQL, PostgreSQL, MongoDB, etc.
+
+Best for: Enterprise systems, corporate environments, high-security large applications.
